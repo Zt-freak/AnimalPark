@@ -1,0 +1,10 @@
+C:\Users\bnkho\source\repos\AnimalPark\AnimalPark\obj\Debug\AnimalPark.csprojAssemblyReference.cache
+C:\Users\bnkho\source\repos\AnimalPark\AnimalPark\obj\Debug\AnimalPark.Properties.Resources.resources
+C:\Users\bnkho\source\repos\AnimalPark\AnimalPark\obj\Debug\AnimalPark.csproj.GenerateResource.cache
+C:\Users\bnkho\source\repos\AnimalPark\AnimalPark\obj\Debug\AnimalPark.csproj.CoreCompileInputs.cache
+C:\Users\bnkho\source\repos\AnimalPark\AnimalPark\obj\Debug\AnimalPark.Form.resources
+C:\Users\bnkho\source\repos\AnimalPark\AnimalPark\bin\Debug\AnimalPark.exe.config
+C:\Users\bnkho\source\repos\AnimalPark\AnimalPark\bin\Debug\AnimalPark.exe
+C:\Users\bnkho\source\repos\AnimalPark\AnimalPark\bin\Debug\AnimalPark.pdb
+C:\Users\bnkho\source\repos\AnimalPark\AnimalPark\obj\Debug\AnimalPark.exe
+C:\Users\bnkho\source\repos\AnimalPark\AnimalPark\obj\Debug\AnimalPark.pdb
